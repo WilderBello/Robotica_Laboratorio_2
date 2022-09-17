@@ -9,9 +9,8 @@ El laboratorio 2 de la materia Robótica tiene como objetivo dar una iintroducci
 
 ## Solución
 
+Realizando los pasos de la guía dada, se procedió a establecer la conexción con ROS inicialmente para luego realizar las modificaciones planteadas en la guía de desarrollo.
+
 ## Descripción de la solución planteada
-
-## Archivos 
-
 
 
