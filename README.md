@@ -35,19 +35,18 @@ Escribir un código que permita operar una tortuga del paquete turtlesim con el 
 
 - Código desarrollado en Python:
 
-![](https://github.com/WilderBello/Robotica_Laboratorio_2/blob/main/Imagenes/matlab/Python_1.png)
+![](https://github.com/WilderBello/Robotica_Laboratorio_2/blob/main/Imagenes/python/Python_1.png)
 
-![](https://github.com/WilderBello/Robotica_Laboratorio_2/blob/main/Imagenes/matlab/Python_2.png)
+![](https://github.com/WilderBello/Robotica_Laboratorio_2/blob/main/Imagenes/python/Python_2.png)
 
 - Posteriormente se agregó el script a CMakeLists.txt como se puede observar en la imagen:
 
-![](https://github.com/WilderBello/Robotica_Laboratorio_2/blob/main/Imagenes/matlab/Python_3.png)
+![](https://github.com/WilderBello/Robotica_Laboratorio_2/blob/main/Imagenes/python/Python_3.png)
 
 - Al realizar el catkin_make se obtuvo el siguiente error:
 
-![](https://github.com/WilderBello/Robotica_Laboratorio_2/blob/main/Imagenes/matlab/Python_4.png)
+![](https://github.com/WilderBello/Robotica_Laboratorio_2/blob/main/Imagenes/python/Python_4.png)
 
 Por lo que se procedió a ejecutar el script directamente de la consola de vscode, obteniendo así los resultados esperados:
 
-
-![](https://github.com/WilderBello/Robotica_Laboratorio_2/blob/main/Imagenes/matlab/Python_5.png)
+![](https://github.com/WilderBello/Robotica_Laboratorio_2/blob/main/Imagenes/python/Python_5.png)
