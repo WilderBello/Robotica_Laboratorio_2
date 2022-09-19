@@ -23,7 +23,7 @@ Dando seguimiento a la guia, se establecieron los siguientes pasos:
 - Luego se debe iniciar Matlab y crear un script que contenga el código dado en la guía, ejecutar el comando y observar el resultado:
 ![](https://github.com/WilderBello/Robotica_Laboratorio_2/blob/main/Imagenes/matlab/Matlab_3.png)
 - Crear un script en Matlab para suscribirse al tópico de pose de la simulación de turtle1:
-![](https://github.com/WilderBello/Robotica_Laboratorio_2/blob/main/Imagenes/matlab/Matlab_.png)
+![](https://github.com/WilderBello/Robotica_Laboratorio_2/blob/main/Imagenes/matlab/Matlab_4.png)
 - Crear un script en Matlab que permita enviar todos los valores asociados a la pose de turtle1.
 ![](https://github.com/WilderBello/Robotica_Laboratorio_2/blob/main/Imagenes/matlab/Matlab_5.png)
 - Para finalizar el nodo maestro se utiliza el comando: clear('master')
