@@ -13,7 +13,9 @@ Realizando los pasos de la guía dada, se procedió a establecer la conexción c
 
 ## Descripción de la solución planteada
 Dando seguimiento a la guia, se establecieron los siguientes pasos:
-* Matlab
+
+<h1>Matlab</h1>
+
 - Dos terminales, en una de ellas lanzar el comando: roscore
 ![](https://github.com/WilderBello/Robotica_Laboratorio_2/blob/main/Imagenes/matlab/Matlab_1.png)
 - En la terminal dos lanzar turtlesim con el comando: rosrun turtlesim turtlesim_node
