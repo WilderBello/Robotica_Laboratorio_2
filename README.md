@@ -14,7 +14,7 @@ Realizando los pasos de la guía dada, se procedió a establecer la conexción c
 ## Descripción de la solución planteada
 Dando seguimiento a la guia, se establecieron los siguientes pasos:
 
-<h1>Matlab</h1>
+<h3>Matlab</h3>
 
 - Dos terminales, en una de ellas lanzar el comando: roscore
 ![](https://github.com/WilderBello/Robotica_Laboratorio_2/blob/main/Imagenes/matlab/Matlab_1.png)
@@ -29,4 +29,25 @@ Dando seguimiento a la guia, se establecieron los siguientes pasos:
 - Para finalizar el nodo maestro se utiliza el comando: clear('master')
 
 
-* Python
+<h3> Python </h3>
+
+Escribir un código que permita operar una tortuga del paquete turtlesim con el teclado, de tal manera que: se mueva hacia adelante y hacia atrás con W y S, debe girar en sentido horario y antihorario con las teclas D y A, debe retornar a su posoción y orientación centrales con la tecla R y debe dar un giro de 180 grados con la tecla espacio.
+
+- Código desarrollado en Python:
+
+![](https://github.com/WilderBello/Robotica_Laboratorio_2/blob/main/Imagenes/matlab/Python_1.png)
+
+![](https://github.com/WilderBello/Robotica_Laboratorio_2/blob/main/Imagenes/matlab/Python_2.png)
+
+- Posteriormente se agregó el script a CMakeLists.txt como se puede observar en la imagen:
+
+![](https://github.com/WilderBello/Robotica_Laboratorio_2/blob/main/Imagenes/matlab/Python_3.png)
+
+- Al realizar el catkin_make se obtuvo el siguiente error:
+
+![](https://github.com/WilderBello/Robotica_Laboratorio_2/blob/main/Imagenes/matlab/Python_4.png)
+
+Por lo que se procedió a ejecutar el script directamente de la consola de vscode, obteniendo así los resultados esperados:
+
+
+![](https://github.com/WilderBello/Robotica_Laboratorio_2/blob/main/Imagenes/matlab/Python_5.png)
